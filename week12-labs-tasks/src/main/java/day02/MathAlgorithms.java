@@ -34,6 +34,5 @@ public class MathAlgorithms {
         a=2586;
         b=1293;
         System.out.println("("+a+","+b+") => "+mathAlgorithms.lnko(a,b));
-
     }
 }
